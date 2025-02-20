@@ -1,0 +1,101 @@
+OrderId,OrderDate,CustomerName,State,City
+O001,2024-11-22,Robert Henson,Maharashtra,Nagpur
+O002,2024-04-24,Charles Ryan,Karnataka,Mysore
+O003,2024-07-26,Barbara Hughes,Maharashtra,Pune
+O004,2024-09-09,Kenneth Smith,Gujarat,Vadodara
+O005,2024-08-08,Vincent Martin,Delhi,Rohini
+O006,2024-08-17,Stephanie Romero,Maharashtra,Pune
+O007,2024-08-31,Stephanie Jones,Maharashtra,Pune
+O008,2024-05-18,Matthew Cobb,Karnataka,Hubli
+O009,2024-07-18,Richard Craig,Karnataka,Hubli
+O010,2024-04-28,Tara Dominguez,Delhi,Dwarka
+O011,2024-12-02,Kevin Nash,Karnataka,Bangalore
+O012,2024-03-06,Joshua Hunter,Delhi,New Delhi
+O013,2024-05-05,Denise Hayes,Delhi,New Delhi
+O014,2024-06-08,Isabel Hayes MD,Delhi,Rohini
+O015,2024-06-04,Douglas Manning,Gujarat,Vadodara
+O016,2024-12-26,William Scott,Karnataka,Bangalore
+O017,2025-01-03,Stephanie Walker,Delhi,Rohini
+O018,2024-06-24,David Williams,Karnataka,Bangalore
+O019,2024-04-27,Angela Manning,Gujarat,Ahmedabad
+O020,2024-05-17,Nancy Floyd,Delhi,New Delhi
+O021,2024-05-13,Lisa Smith,Maharashtra,Mumbai
+O022,2024-10-20,Angela Johnson,Gujarat,Vadodara
+O023,2024-08-08,Peter Murray,Delhi,New Delhi
+O024,2024-03-16,Dawn Anderson,Gujarat,Ahmedabad
+O025,2024-06-06,Chad Rodriguez,Gujarat,Vadodara
+O026,2024-09-10,Patrick Scott,Delhi,Rohini
+O027,2024-06-16,Mrs. Mary Esparza,Karnataka,Mysore
+O028,2024-08-06,Evelyn Hall,Gujarat,Surat
+O029,2024-12-28,Amy Baker,Maharashtra,Pune
+O030,2024-06-17,Teresa Carter,Delhi,Dwarka
+O031,2024-08-14,Betty Ferguson,Karnataka,Bangalore
+O032,2024-09-19,Michael Silva,Karnataka,Bangalore
+O033,2024-04-05,John Lowery,Gujarat,Ahmedabad
+O034,2025-01-06,Nicholas Douglas,Delhi,Dwarka
+O035,2024-08-16,Christopher Cortez,Gujarat,Vadodara
+O036,2025-02-12,Stephen Fisher,Maharashtra,Pune
+O037,2024-06-01,Shane Waters,Maharashtra,Pune
+O038,2024-04-06,Kelly Hammond,Gujarat,Ahmedabad
+O039,2024-09-21,Adam Wilkins,Delhi,Dwarka
+O040,2024-10-18,Michelle Fitzgerald,Maharashtra,Nagpur
+O041,2024-09-17,Rebecca Fox,Maharashtra,Nagpur
+O042,2024-04-14,Isaac Lowe,Delhi,New Delhi
+O043,2025-01-10,Michael Riddle,Maharashtra,Nagpur
+O044,2025-02-10,Christopher Quinn,Karnataka,Mysore
+O045,2024-06-09,Mindy Rodriguez,Karnataka,Bangalore
+O046,2024-06-05,Veronica Clark,Delhi,Rohini
+O047,2024-11-29,Michael Davis,Karnataka,Mysore
+O048,2025-02-03,Shawn Yang,Karnataka,Hubli
+O049,2024-02-27,Elizabeth Hughes,Maharashtra,Mumbai
+O050,2024-10-07,Gregory Anderson,Maharashtra,Pune
+O051,2024-09-09,Cindy Clark,Delhi,New Delhi
+O052,2025-01-17,Kellie Martin,Gujarat,Surat
+O053,2024-09-19,James Thomas,Gujarat,Vadodara
+O054,2024-11-01,Jessica Carr,Maharashtra,Pune
+O055,2024-10-16,Kellie Townsend,Karnataka,Hubli
+O056,2024-02-17,Todd Nguyen,Karnataka,Bangalore
+O057,2024-08-09,Raymond Reynolds,Karnataka,Hubli
+O058,2024-11-02,Larry Fischer,Maharashtra,Pune
+O059,2024-09-22,Amanda Rodriguez,Karnataka,Hubli
+O060,2024-11-25,Gina Roach,Karnataka,Mysore
+O061,2024-09-15,Pamela Watts,Karnataka,Bangalore
+O062,2024-09-09,Paul Stanley,Maharashtra,Nagpur
+O063,2024-12-21,Bryan Martin,Gujarat,Ahmedabad
+O064,2024-12-19,Deanna Washington,Delhi,Dwarka
+O065,2024-12-01,Mary White,Maharashtra,Pune
+O066,2024-10-06,David Jones,Gujarat,Surat
+O067,2024-05-21,Kristin Harrison,Delhi,Dwarka
+O068,2024-09-02,Maureen Caldwell,Delhi,New Delhi
+O069,2025-02-03,Jack Richmond,Delhi,New Delhi
+O070,2024-11-19,Bailey Strickland,Gujarat,Ahmedabad
+O071,2024-08-01,Heidi Porter,Gujarat,Surat
+O072,2024-09-16,Heather Williams,Karnataka,Bangalore
+O073,2024-09-04,Justin Solis,Maharashtra,Nagpur
+O074,2025-01-29,Melissa Green,Karnataka,Mysore
+O075,2024-08-08,Jennifer Simon,Maharashtra,Pune
+O076,2024-11-27,Katie Webb,Maharashtra,Nagpur
+O077,2024-11-26,Anthony Livingston,Karnataka,Mysore
+O078,2024-04-19,Jennifer Cline,Delhi,New Delhi
+O079,2024-04-13,Carolyn Marshall,Delhi,Rohini
+O080,2024-05-16,Kelly Johnson,Karnataka,Mysore
+O081,2024-03-22,Stephanie Robinson,Gujarat,Surat
+O082,2024-11-29,Patricia Smith,Maharashtra,Nagpur
+O083,2024-03-05,Eric Harrison,Delhi,Rohini
+O084,2024-02-19,Scott Wilson,Gujarat,Ahmedabad
+O085,2024-09-27,Jeffery Hobbs,Delhi,Rohini
+O086,2024-05-18,Carly Collins,Maharashtra,Mumbai
+O087,2024-08-17,Sonya Hernandez,Maharashtra,Mumbai
+O088,2024-10-28,Michael Cooke,Karnataka,Mysore
+O089,2024-11-01,John Hoffman,Delhi,New Delhi
+O090,2024-12-03,James Rogers,Maharashtra,Nagpur
+O091,2024-06-02,Danielle Sherman,Gujarat,Surat
+O092,2025-02-03,David Harris,Delhi,New Delhi
+O093,2024-09-26,Paul Mcguire,Maharashtra,Pune
+O094,2024-12-29,Rachel Hayes,Maharashtra,Mumbai
+O095,2024-07-17,David Massey,Gujarat,Ahmedabad
+O096,2024-10-14,Jimmy Li,Gujarat,Ahmedabad
+O097,2024-12-18,Amber Johnson,Delhi,Rohini
+O098,2025-01-15,William Franklin,Maharashtra,Pune
+O099,2024-03-09,Stephanie Morrison,Karnataka,Bangalore
+O100,2024-10-27,Rhonda Johnson,Delhi,Dwarka

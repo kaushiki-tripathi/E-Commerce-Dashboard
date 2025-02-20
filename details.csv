@@ -1,0 +1,101 @@
+OrderId,Amount,Profit,Quantity,Category,Subcategory,PaymentMode
+O001,3266.59,260.11,8,Home Appliances,Washing Machine,UPI
+O002,3260.56,160.95,6,Books,Non-Fiction,Debit Card
+O003,2557.72,483.03,7,Books,Fiction,Net Banking
+O004,3665.85,111.85,7,Books,Non-Fiction,Cash on Delivery
+O005,4244.83,361.05,4,Electronics,Headphones,UPI
+O006,3921.72,207.05,7,Home Appliances,Microwave,Cash on Delivery
+O007,2150.55,411.67,10,Home Appliances,Washing Machine,UPI
+O008,2775.61,145.01,6,Books,Comics,Debit Card
+O009,4199.91,226.68,8,Books,Comics,Net Banking
+O010,1444.74,279.5,5,Clothing,Jackets,UPI
+O011,3423.77,209.09,5,Electronics,Mobile,Credit Card
+O012,891.35,330.3,4,Clothing,Shirts,UPI
+O013,3803.02,446.08,3,Clothing,Jackets,UPI
+O014,3511.11,165.55,7,Books,Non-Fiction,Cash on Delivery
+O015,4495.25,439.12,2,Electronics,Laptop,Net Banking
+O016,1120.54,453.31,4,Clothing,Shirts,Cash on Delivery
+O017,2506.25,274.59,4,Clothing,Jackets,Credit Card
+O018,3199.06,141.08,9,Clothing,Shirts,UPI
+O019,4924.78,99.51,6,Clothing,Trousers,UPI
+O020,2501.83,425.38,5,Clothing,Jackets,Credit Card
+O021,2299.71,341.33,5,Clothing,Shirts,Net Banking
+O022,571.5,403.88,8,Books,Comics,UPI
+O023,2905.96,84.44,6,Clothing,Shirts,Debit Card
+O024,743.82,430.6,1,Home Appliances,Refrigerator,Debit Card
+O025,941.91,199.26,2,Electronics,Mobile,Credit Card
+O026,813.22,367.52,4,Books,Comics,UPI
+O027,1622.23,188.49,8,Home Appliances,Refrigerator,Net Banking
+O028,2577.47,380.51,7,Home Appliances,Microwave,Credit Card
+O029,3114.41,242.0,9,Electronics,Laptop,Debit Card
+O030,772.45,393.77,10,Books,Comics,Net Banking
+O031,1714.98,480.64,4,Electronics,Mobile,Net Banking
+O032,4327.6,305.28,7,Electronics,Laptop,Net Banking
+O033,1195.19,480.76,2,Electronics,Laptop,UPI
+O034,1004.23,325.27,1,Home Appliances,Refrigerator,Cash on Delivery
+O035,4855.09,300.0,7,Electronics,Headphones,UPI
+O036,1915.61,300.29,8,Clothing,Jackets,Credit Card
+O037,2516.28,459.09,10,Home Appliances,Washing Machine,Cash on Delivery
+O038,3863.28,75.05,10,Books,Non-Fiction,Cash on Delivery
+O039,2037.28,237.83,2,Home Appliances,Refrigerator,Net Banking
+O040,4092.3,148.76,9,Home Appliances,Washing Machine,Net Banking
+O041,4694.81,366.87,2,Electronics,Headphones,Cash on Delivery
+O042,1157.16,80.43,9,Clothing,Jackets,Net Banking
+O043,1676.25,319.94,8,Home Appliances,Washing Machine,UPI
+O044,4193.18,478.7,7,Home Appliances,Washing Machine,Credit Card
+O045,650.19,134.63,10,Books,Non-Fiction,UPI
+O046,605.34,426.37,5,Electronics,Mobile,UPI
+O047,2714.33,389.46,3,Books,Comics,Credit Card
+O048,1059.67,250.05,3,Home Appliances,Refrigerator,Credit Card
+O049,4447.07,282.71,6,Home Appliances,Refrigerator,Credit Card
+O050,723.46,307.44,3,Clothing,Shirts,Credit Card
+O051,1073.62,363.71,2,Clothing,Trousers,Net Banking
+O052,2513.1,360.9,7,Books,Fiction,Cash on Delivery
+O053,1016.94,333.95,1,Clothing,Trousers,Net Banking
+O054,2253.9,119.04,1,Clothing,Shirts,Credit Card
+O055,2311.67,375.88,4,Clothing,Jackets,Net Banking
+O056,2225.28,218.98,3,Home Appliances,Microwave,Credit Card
+O057,769.28,226.82,7,Books,Comics,Cash on Delivery
+O058,2509.15,319.33,5,Books,Non-Fiction,UPI
+O059,873.59,251.93,4,Home Appliances,Refrigerator,Net Banking
+O060,4347.94,123.77,5,Clothing,Trousers,Credit Card
+O061,2803.24,424.69,6,Electronics,Headphones,Cash on Delivery
+O062,3815.39,94.61,10,Clothing,Trousers,UPI
+O063,3302.19,245.01,2,Home Appliances,Refrigerator,Debit Card
+O064,2193.76,288.06,10,Home Appliances,Microwave,Debit Card
+O065,4091.9,287.29,8,Electronics,Mobile,Cash on Delivery
+O066,2562.48,173.62,7,Books,Non-Fiction,Cash on Delivery
+O067,2247.66,361.1,10,Electronics,Headphones,UPI
+O068,4005.1,93.61,9,Home Appliances,Washing Machine,Credit Card
+O069,2180.68,476.9,5,Books,Comics,Cash on Delivery
+O070,2525.01,260.51,10,Home Appliances,Refrigerator,Credit Card
+O071,3739.66,200.77,5,Books,Fiction,Cash on Delivery
+O072,2014.66,246.2,10,Clothing,Shirts,UPI
+O073,4389.51,342.94,1,Home Appliances,Microwave,Debit Card
+O074,1118.71,217.06,10,Electronics,Mobile,Cash on Delivery
+O075,963.8,253.01,2,Books,Fiction,UPI
+O076,4177.14,299.38,9,Electronics,Mobile,Credit Card
+O077,780.37,415.76,3,Home Appliances,Refrigerator,Cash on Delivery
+O078,2132.47,329.53,4,Books,Non-Fiction,Net Banking
+O079,1056.44,264.91,2,Electronics,Headphones,Credit Card
+O080,4019.83,253.78,7,Electronics,Laptop,Debit Card
+O081,914.11,119.26,8,Clothing,Jackets,Credit Card
+O082,1908.55,346.0,8,Electronics,Mobile,Net Banking
+O083,1075.09,89.23,10,Books,Fiction,Debit Card
+O084,4904.8,308.71,1,Electronics,Headphones,Cash on Delivery
+O085,1618.38,305.5,9,Books,Non-Fiction,Credit Card
+O086,1326.11,135.69,1,Books,Fiction,Net Banking
+O087,1879.56,291.23,10,Books,Non-Fiction,Net Banking
+O088,3634.25,229.47,4,Home Appliances,Microwave,Credit Card
+O089,2349.17,137.0,4,Books,Comics,Credit Card
+O090,4401.03,172.51,6,Home Appliances,Refrigerator,Debit Card
+O091,1850.89,116.63,3,Clothing,Trousers,Net Banking
+O092,654.54,167.32,6,Home Appliances,Washing Machine,UPI
+O093,1037.12,496.7,6,Home Appliances,Washing Machine,Credit Card
+O094,2292.63,156.1,2,Books,Fiction,Cash on Delivery
+O095,1921.39,303.66,10,Books,Non-Fiction,UPI
+O096,958.98,424.83,2,Clothing,Shirts,Credit Card
+O097,1440.6,332.78,5,Electronics,Mobile,Net Banking
+O098,1915.81,371.39,10,Clothing,Trousers,Net Banking
+O099,3175.74,245.41,1,Home Appliances,Microwave,Debit Card
+O100,4224.07,131.8,7,Electronics,Headphones,Credit Card
